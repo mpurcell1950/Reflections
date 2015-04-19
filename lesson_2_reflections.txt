@@ -10,4 +10,7 @@ A: By using the git diff and git diff --staged commands to examine the contents
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: When making experimental changes. When making two different versions of a program, such as free and Pro(paid). With branches, you can have different versions of the program concurrently, and work on each separately.
 
+Q: How do the diagrams help you visualize the branch structure?
+A: It's easier to grasp the concept of branches with a visual representation. Depending on how the mind works, one usually makes a diagram mentally for such concepts anyway.
+
 Q: 
