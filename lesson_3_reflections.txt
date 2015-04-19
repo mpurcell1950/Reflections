@@ -1,1 +1,2 @@
-Q: When would ...
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: First, a remote repository is a great backup of your project to the cloud. So even if you are the only one working on the project, it's a great idea to have a remote copy of it. Additionally, when a project needs to be worked on by more than one person, the remote repository makes it possible for people at various locations to have access to the project files.
