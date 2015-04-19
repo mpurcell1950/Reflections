@@ -1,0 +1,7 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: The hidden .git directory is created with the framework for tracking information to be added later. This is the first step in making the directory a git repository.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area contains references to the files that should be commited. The working directory contains the current state of the files that can be modified. The repository contains all files and all changes that have been commited for the life of the project.
+
+Q: 
