@@ -10,4 +10,7 @@ A: A branch is section of separate code within a repository connected to the cod
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Makes it more likely that the local and remote repositories will not get out of sync.
 
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I can't imagine collaborating without git or github. Maybe give someone a copy of the files, then get together and discuss what changes each has made. Sounds silly. I can't think of anything off hand that would be easier without git and github.
+
 Q: 
