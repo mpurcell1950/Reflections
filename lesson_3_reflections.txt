@@ -13,4 +13,5 @@ A: Makes it more likely that the local and remote repositories will not get out 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I can't imagine collaborating without git or github. Maybe give someone a copy of the files, then get together and discuss what changes each has made. Sounds silly. I can't think of anything off hand that would be easier without git and github.
 
-Q: 
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: In this case, it worked best to make another collaborator's and your own changes in a separate branch so that the other collaborator can approve the change before it is merged into the master branch.
